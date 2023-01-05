@@ -1,3 +1,0 @@
-a	to create a new game. a to create, b to delete.
-b	to join a game. following code.
-c	to send hostname
