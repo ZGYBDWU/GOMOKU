@@ -1,0 +1,1 @@
+.\jre8_custom\bin\java wuziqi.Start
